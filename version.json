@@ -1,0 +1,11 @@
+{
+  "latest_version": "2608.1.01",
+  "release_date": "2026-08-02",
+  "windows": {
+    "url": "",
+    "sha256": ""
+  },
+  "changelog": [
+    "全新上線",
+  ]
+}
