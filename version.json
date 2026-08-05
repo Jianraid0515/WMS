@@ -1,8 +1,8 @@
 {
-  "latest_version": "2608.1.01",
-  "release_date": "2026-08-02",
+  "latest_version": "2608.1.02",
+  "release_date": "2026-08-05",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WMS/releases/download/V2608.1.01/WMS_Server_V2608.1.01_Installer.exe",
+    "url": "https://github.com/Jianraid0515/WMS/releases/download/V2608.1.02/WMS_Server_V2608.1.02_Installer.exe",
     "sha256": ""
   },
   "changelog": [
