@@ -1,12 +1,12 @@
 {
-  "latest_version": "2608.2.01",
+  "latest_version": "2608.2.02",
   "release_date": "2026-08-16",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WMS/releases/download/V2608.2.01/WMS_Server_V2608.2.01.zip",
+    "url": "https://github.com/Jianraid0515/WMS/releases/download/V2608.2.02/WMS_Server_V2608.2.02.zip",
     "sha256": ""
   },
   "changelog": [
-    "誤判後門修正",
+    "防火牆修正支援異地服務",
     "全WEBUI更新",
     "註冊為微軟服務運行"
   ]
