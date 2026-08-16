@@ -1,11 +1,12 @@
 {
-  "latest_version": "2608.2.06",
+  "latest_version": "2608.2.07",
   "release_date": "2026-08-16",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WMS/releases/download/V2608.2.06/WMS_Server_V2608.2.06.zip",
+    "url": "https://github.com/Jianraid0515/WMS/releases/download/V2608.2.07/WMS_Server_V2608.2.07.zip",
     "sha256": ""
   },
   "changelog": [
+    "修正線上更新引號衝突問題",
     "修正線上更新機制",
     "防火牆修正支援異地服務",
     "全WEBUI更新"
